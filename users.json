@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "ryue27",
+            "password": "7777",
+            "role": "owner",
+            "expired": "2030-12-31",
+            "created_by": "system"
+        }
+    ]
+}
